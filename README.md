@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angela-del-rosario-quispe-ticona/?skipRedirect=true">
+  <a href="[https://www.linkedin.com/in/angela-del-rosario-quispe-ticona/?skipRedirect=true](https://www.linkedin.com/in/angela-del-rosario-quispe-ticona/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8Nmjbj7MSZOo%2F6hXbIT%2FHQ%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="quispedelrosario@gmail.com">
