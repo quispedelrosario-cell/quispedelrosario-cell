@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabian-solano-40203378">
+  <a href="linkedin.com/in/angela-del-rosario-quispe-ticona>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:cacheater@gmail.com">
+  <a href="quispedelrosario@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 ### 🧪 About me
 
-- 🔍 **QA Automation Engineer** focused on full-stack testing — UI, API and backend.
+- 🔍 **QA Automation Basic** focused on full-stack testing — UI, API and backend.
 - 🤝 Open to **full-time roles** and **freelance / contract** work.
 - 🛠️ I turn manual test cases into maintainable automated suites integrated into CI/CD.
 - 🌎 Based in Costa Rica (UTC−6) · working in English & Spanish.
