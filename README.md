@@ -55,8 +55,8 @@
 
 | Project | What it shows | Stack |
 |---------|---------------|-------|
-| [selenium-e2e-framework](https://github.com/Cacheater/selenium-e2e-framework) | Page Object Model E2E framework with CI | Java · Selenium · TestNG |
-| [playwright-e2e-framework](https://github.com/Cacheater/playwright-e2e-framework) | Cross-browser E2E tests, traces on failure | Playwright · TypeScript |
+| [selenium-e2e-framework](https://github.com/Cacheater/selenium-e2e-framework) | Page Object Model E2E framework with CI | Java · Playwright · TypeScriptG |
+| [appium-e2e-framework](https://github.com/quispedelrosario-cell/AUTOMATIZACI-N-MOVIL---2-PROCESOS-DE-REGISTRO-ANDROID.git) | Cross-browser E2E tests, traces on failure | APPIUM · Java |
 
 ---
 
